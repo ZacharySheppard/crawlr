@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "name": "Dwarf",
+        "description": "Dwarves have a well-earned reputation as a stoic and stern people, ensconced within citadels, and cities carved from solid rock. While some see them as dour and humorless crafters of stone and metal, dwarves and those who have spent time among them understand their unbridled zeal for their work, caring far more about quality than quantity. To a stranger, they can seem untrusting and clannish, but to their friends and family, they are warm and caring, their halls filled with the sounds of laughter and hammers hitting anvils."
+    },
+    {
+        "id": 1,
+        "name": "Elf",
+        "description": ""
+    },
+    {
+        "id": 2,
+        "name": "Gnome",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "name": "Goblin",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "name": "Halfling",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "name": "Human",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "name": "Leshy",
+        "description": ""
+    },
+    {
+        "id": 7,
+        "name": "Orc",
+        "description": ""
+    },
+    {
+        "id": 8,
+        "name": "Athamaru",
+        "description": ""
+    },
+    {
+        "id": 9,
+        "name": "Azarketi",
+        "description": ""
+    },
+    {
+        "id": 10,
+        "name": "Catfolk",
+        "description": ""
+    },
+    {
+        "id": 11,
+        "name": "Centaur",
+        "description": ""
+    },
+    {
+        "id": 12,
+        "name": "Fetchling",
+        "description": ""
+    },
+    {
+        "id": 13,
+        "name": "Hobgoblin",
+        "description": ""
+    },
+    {
+        "id": 14,
+        "name": "Kholo",
+        "description": ""
+    },
+    {
+        "id": 15,
+        "name": "Kitsune",
+        "description": ""
+    },
+    {
+        "id": 16,
+        "name": "Kobold",
+        "description": ""
+    },
+    {
+        "id": 17,
+        "name": "Lizardfolk",
+        "description": ""
+    },
+    {
+        "id": 18,
+        "name": "Merfolk",
+        "description": ""
+    },
+    {
+        "id": 19,
+        "name": "Minotaur",
+        "description": ""
+    },
+    {
+        "id": 20,
+        "name": "Nagaji",
+        "description": ""
+    },
+    {
+        "id": 21,
+        "name": "Ratfolk",
+        "description": ""
+    },
+    {
+        "id": 22,
+        "name": "Samsaran",
+        "description": ""
+    },
+    {
+        "id": 23,
+        "name": "Tanuki",
+        "description": ""
+    },
+    {
+        "id": 24,
+        "name": "Tengu",
+        "description": ""
+    },
+    {
+        "id": 25,
+        "name": "Tripkee",
+        "description": ""
+    },
+    {
+        "id": 26,
+        "name": "Vanara",
+        "description": ""
+    },
+    {
+        "id": 27,
+        "name": "Wayang",
+        "description": ""
+    },
+    {
+        "id": 28,
+        "name": "Anadi",
+        "description": ""
+    },
+    {
+        "id": 29,
+        "name": "Android",
+        "description": ""
+    },
+    {
+        "id": 30,
+        "name": "Automaton",
+        "description": ""
+    },
+    {
+        "id": 31,
+        "name": "Awakened Animal",
+        "description": ""
+    },
+    {
+        "id": 32,
+        "name": "Conrasu",
+        "description": ""
+    },
+    {
+        "id": 33,
+        "name": "Fleshwarp",
+        "description": ""
+    },
+    {
+        "id": 34,
+        "name": "Ghoran",
+        "description": ""
+    },
+    {
+        "id": 35,
+        "name": "Goloma",
+        "description": ""
+    },
+    {
+        "id": 36,
+        "name": "Kashrishi",
+        "description": ""
+    },
+    {
+        "id": 37,
+        "name": "Poppet",
+        "description": ""
+    },
+    {
+        "id": 38,
+        "name": "Sarangay",
+        "description": ""
+    },
+    {
+        "id": 39,
+        "name": "Shisk",
+        "description": ""
+    },
+    {
+        "id": 40,
+        "name": "Shoony",
+        "description": ""
+    },
+    {
+        "id": 41,
+        "name": "Skeleton",
+        "description": ""
+    },
+    {
+        "id": 42,
+        "name": "Sprite",
+        "description": ""
+    },
+    {
+        "id": 43,
+        "name": "Strix",
+        "description": ""
+    },
+    {
+        "id": 44,
+        "name": "Surki",
+        "description": ""
+    },
+    {
+        "id": 45,
+        "name": "Vishkanya",
+        "description": ""
+    },
+    {
+        "id": 46,
+        "name": "Yaksha",
+        "description": ""
+    },
+    {
+        "id": 47,
+        "name": "Yaoguai",
+        "description": ""
+    }
+]
